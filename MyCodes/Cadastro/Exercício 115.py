@@ -1,4 +1,4 @@
-from personal import *
+from MyCodes.personal import *
 
 lista = []
 while True:

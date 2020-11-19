@@ -1,4 +1,4 @@
-from personal import title, inputInt, inputFloat
+from MyCodes.personal import title, inputInt, inputFloat
 from urllib.request import urlopen
 
 title('Exercício 113', 50, 34)
