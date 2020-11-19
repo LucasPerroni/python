@@ -27,7 +27,7 @@ while continuar == 's':
         continuar = input('\033[31m[ERRO]\033[37m Continuar (S/N)? ').strip().lower()[0]
     print('\033[31m-\033[30m'*70)
 
-print(f'{"Código"}  Nome')
+print('Código  Nome')
 for c in lista1:
     x += 1
     print(f'{x:^6}  ' + c['Nome'])
